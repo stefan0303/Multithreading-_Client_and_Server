@@ -1,0 +1,7 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\bin\Debug\Client.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\obj\Debug\Client.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\Multithreading_Client_and_Server\Client\Client\obj\Debug\Client.pdb
